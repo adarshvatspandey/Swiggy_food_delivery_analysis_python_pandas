@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project analyzes 197,430 food delivery records to uncover business insights related to restaurant performance, customer preferences, dish popularity, pricing strategies, and market trends. The analysis was performed using Python, Pandas, NumPy, and Matplotlib.
-
+![image](https://github.com/adarshvatspandey/Swiggy_food_delivery_analysis_python_pandas/blob/22234dd9c2288b43c35631d0206c5a8c2cce4b8d/Image.png)
 ---
 
 ## 📊 Dataset Information

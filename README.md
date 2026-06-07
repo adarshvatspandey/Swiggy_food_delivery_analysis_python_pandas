@@ -31,8 +31,6 @@ This project analyzes 197,430 food delivery records to uncover business insights
 
 - Python
 - Pandas
-- NumPy
-- Matplotlib
 - Jupyter Notebook
 
 ---
